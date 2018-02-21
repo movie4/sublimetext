@@ -1,0 +1,39 @@
+{
+	"always_show_minimap_viewport": true,
+	"color_scheme": "Packages/User/SublimeLinter/Solarized (Light) (SL).tmTheme",
+	"dictionary": "Packages/Dictionaries/Russian.dic",
+	"draw_white_space": "all",
+	"folder_exclude_patterns":
+	[
+		"bower_components",
+		"node_modules",
+		"__pycache__",
+		".svn",
+		".git",
+		".hg",
+		"CVS"
+	],
+	"font_size": 18,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"index_exclude_patterns":
+	[
+		"bower_components",
+		"node_modules",
+		"*.log"
+	],
+	"rulers":
+	[
+		78
+	],
+	"show_definitions": false,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"word_wrap": false
+}

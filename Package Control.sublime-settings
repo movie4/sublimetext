@@ -1,0 +1,41 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoFileName",
+		"Babel",
+		"Babel Snippets",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"CSS3",
+		"Dictionaries",
+		"Django",
+		"EditorConfig",
+		"ES6-Toolkit",
+		"HTML5",
+		"JavaScriptNext - ES6 Syntax",
+		"Jinja2",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"React ES6 Snippets",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-stylelint",
+		"SublimeLinter-eslint",
+		"SublimeLinter-json",
+		"SublimeLinter-jsxhint",
+		"SublimeLinter-pep8",
+		"SublimeLinter-pyflakes",
+		"Syntax Highlighting for PostCSS",
+		"Text Pastry",
+		"TrailingSpaces",
+		"Trimmer",
+		"Whitespace",
+		"WordHighlight"
+	]
+}
